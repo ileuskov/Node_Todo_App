@@ -11,7 +11,7 @@ The app is made with:
 5) Node.js
 6) Express and ejs
 
-The main function of this Todo list app is that instead of just removing or adding a Todo in a <li>, it handles the get, post and delete requests via the Node.js and express. It can add a new Todo by typing it and hitting enter or "Add a Todo" and delete a Todo by clicking on it.
+The main function of this Todo list app is that instead of just removing or adding a Todo in a li part of the list, it handles the get, post and delete  requests via the Node.js and express. It can add a new Todo by typing it and hitting enter or "Add a Todo" and delete a Todo by clicking on it.
 
 The page is fully responsive and can be read comfortably from any screen. 
 Please let me know if I have made any mistakes or my code could be refactored in a more efficient way. Thanks in advance!
