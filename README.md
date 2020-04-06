@@ -8,7 +8,7 @@ The app is made with:
 2) CSS,
 3) JS,
 4) jQuery,
-5) Node.js
+5) Node.js,
 6) Express and ejs
 
 The main function of this Todo list app is that instead of just removing or adding a Todo in a li part of the list, it handles the get, post and delete  requests via the Node.js and express. It can add a new Todo by typing it and hitting enter or "Add a Todo" and delete a Todo by clicking on it.
